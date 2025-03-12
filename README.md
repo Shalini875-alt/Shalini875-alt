@@ -1,4 +1,4 @@
-<h1>Hi there 👋 I'm Shalini M S</h1>
+<h2>Hi there 👋 I'm Shalini M S</h2>
 I'am currently a Student of 3rd year
 
 # 💫 About Me:
