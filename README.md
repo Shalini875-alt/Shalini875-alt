@@ -1,5 +1,8 @@
 # 💫 About Me:
 I am a software developer.
+Currently working on:
+AI-ML projects
+Data science
 
 
 ## 🌐 Socials:
