@@ -1,4 +1,5 @@
-Hi there 👋 I'm Shalini M S
+<h1>Hi there 👋 I'm Shalini M S</h1>
+I'am currently a Student of 3rd year
 
 # 💫 About Me:
 I am a software developer.
